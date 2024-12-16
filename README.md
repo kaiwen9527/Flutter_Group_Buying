@@ -2,10 +2,13 @@
 
 * 一個簡易的系統 App，此 App 是簡單模擬現在市面上的團購市場 (假設為某個團購商的公司系統)。利用此 App 可以保存每一位用戶的資料且也能較有信用。每個客人登入後可查看目前團購主有推出什麼樣的合作商品，而客人可直接點選商品查看詳細資訊，當有意願時即可下單並將資料送至團購商那邊，團購商收到後在將商品打包寄出。
 
+<img src="https://github.com/user-attachments/assets/bd01db31-e4c8-4c64-8471-5c50b4040056" width="250px">
+
 ## 未登入時
 
 * **剛進入 App 的畫面 (日跟夜)**
 
+  <img src="https://github.com/user-attachments/assets/9f823025-8530-4282-9139-b139e1e976a4" width="250px">  <img src="https://github.com/user-attachments/assets/0159a35f-107d-421a-bba1-30cef7105158" width="250px">
   ![登入畫面(日)](https://github.com/user-attachments/assets/9f823025-8530-4282-9139-b139e1e976a4)   ![登入畫面(夜)](https://github.com/user-attachments/assets/0159a35f-107d-421a-bba1-30cef7105158)
 
 * **這裡先預設有一組使用者名稱與密碼**
