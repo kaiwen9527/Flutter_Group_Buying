@@ -115,8 +115,19 @@
   ![全屏浮動按鈕](https://github.com/user-attachments/assets/74c0e94f-7b64-4de8-b164-629261c61daf)
 
   
+## dependencies
 
+* flutter_screenutil: ^5.9.3
+* provider: ^6.1.2
+* date_format: ^2.0.9
 
+## Version
+
+* Flutter SDK -- 3.24.4
+* Dart Version -- 3.5.4
+* DevTools Version -- 2.37.3
+* Android SDK -- 35.0.0
+* Java JDK -- 17.0.11
 
 
 
