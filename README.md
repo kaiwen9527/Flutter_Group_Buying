@@ -133,6 +133,13 @@
 
   ![全屏浮動按鈕](https://github.com/user-attachments/assets/74c0e94f-7b64-4de8-b164-629261c61daf)
 
+### 退出 App 提示
+
+* 如要退出 App 至手機主畫面時，點擊退出鍵會先跳出提示訊息，確保是否真的要退出，當 4 秒內再次按下即可退出。
+
+  ![App 退出提示](https://github.com/user-attachments/assets/51dc840f-aa8e-4e02-87f1-89653f3b97e8)
+
+
   
 ## dependencies
 
